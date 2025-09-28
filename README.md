@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Just+a+Normal+Dev;Full+Stack+Developer;Always+learning+new+things&font=Fira%20Code&center=true&width=440&height=45&duration=4000&pause=1000" alt="Typing SVG" />
 </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SorayutChroenrit&locale=en&hide_title=false&hide=html,ejs,css,pug&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=SorayutChroenrit&theme=dark&hide_border=true" alt="GitHub Streak" /> </div>
---- 
+
 <br/>
 
 # 🛠️ Tech Stack
